@@ -16,3 +16,11 @@ document.getElementById("stripes").onclick = function(){
     document.getElementById("menu1").style.padding = "120px";
   }
 };
+/**
+if(typeof jQuery == undefined){
+  alert("Wrong defined jQuery");
+}
+$("try").click(function(){
+  alert("You clicked in stripes");
+});
+**/
